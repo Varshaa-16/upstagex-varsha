@@ -10,6 +10,9 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
+##Demo video
+Loom Walkthrough:
+https://www.loom.com/share/0d32ffb40664431899c3661f78b0a6e2
 
 ## Stack
 
